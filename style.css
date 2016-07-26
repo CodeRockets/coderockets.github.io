@@ -5,6 +5,34 @@
     color: #222;
 }
 
-.header{
-	background: #CBF5E7;
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.logo{
+	position: absolute;
+	left: 40px;
+	top: 40px;
+	background-color: #fff;
+}
+
+.content {
+	text-align: center;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.product {
+	border-radius: 10px;
+    box-shadow: 0 0 40px rgba(0,0,0,0.5);
+}
+
+.comments {
+    width: 100%;
+    min-height: 100px;
+    background-color: rgba(0,0,0,0.02);
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
 }
