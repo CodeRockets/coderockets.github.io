@@ -40,4 +40,8 @@ body{
 
 .inner{
 	width: 480px;
+    margin-left: -240px;
+    left: 50%;
+    margin-top: 20px;
+    position: relative;
 }
