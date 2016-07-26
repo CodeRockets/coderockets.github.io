@@ -1,0 +1,10 @@
+* {
+	font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 26px;
+    line-height: 1;
+    color: #222;
+}
+
+.header{
+	background: #CBF5E7;
+}
