@@ -17,22 +17,27 @@ body{
 	background-color: #fff;
 }
 
-.content {
+.content{
 	text-align: center;
     margin-top: 20px;
     border-radius: 10px;
     padding: 40px;
 }
 
-.product {
+.product{
 	border-radius: 10px;
     box-shadow: 0 0 40px rgba(0,0,0,0.5);
 }
 
-.comments {
+.comments{
+	text-align: center;
     width: 100%;
     min-height: 100px;
     background-color: rgba(0,0,0,0.02);
     margin-top: 20px;
     border-top: 1px solid #ddd;
+}
+
+.inner{
+	width: 480px;
 }
