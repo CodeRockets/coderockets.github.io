@@ -17,6 +17,13 @@ body{
 	background-color: #fff;
 }
 
+.logo img{
+	width: 200px;
+    background-color: #eee;
+    border-radius: 10px;
+    border-bottom: 4px solid #ddd;
+}
+
 .content{
 	text-align: center;
     margin-top: 20px;
